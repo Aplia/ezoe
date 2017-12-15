@@ -1,0 +1,12 @@
+{
+    "name": "aplia/ezoe",
+    "description": "eZ Online Editor",
+    "keywords": ["ezextension", "editor"],
+    "homepage": "https://github.com/Aplia/ezoe",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0",
+    "require": {
+        "php": ">=5.3",
+        "composer/composer": ">=1.0"
+    }
+}
