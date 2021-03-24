@@ -8,5 +8,13 @@
     "require": {
         "php": ">=5.3",
         "composer/composer": ">=1.0"
+    },
+    "autoload": {
+        "classmap": [
+            "classes",
+            "autoloads",
+            "modules/ezoe/classes",
+            "ezxmltext/handlers/input"
+        ]
     }
 }
